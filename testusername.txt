@@ -1,0 +1,8 @@
+Extend the program to have it test user names - a Silly name testing program.
+¦Create 4 message variables, and 4 different message objects.
+¦Get the user to enter their name, and output one of the messages for that user. For example
+(use your own name and names of your friends, not these names):
+¦ "Andrew" gets the message "Welcome back oh great creator!"
+¦ "Fred" gets the message "What a lovely name"
+¦ "Wilma" gets "Great name"
+¦ anyone else gets "That is a silly name"
